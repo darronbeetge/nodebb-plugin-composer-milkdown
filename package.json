@@ -1,0 +1,24 @@
+{
+  "name": "nodebb-plugin-composer-milkdown",
+  "version": "1.0.0",
+  "description": "A WYSIWYG markdown composer for NodeBB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darronbeetge/nodebb-plugin-composer-milkdown.git"
+  },
+  "keywords": [
+    "NodeBB",
+    "markdown",
+    "wysiwyg"
+  ],
+  "author": "Darron Beetge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darronbeetge/nodebb-plugin-composer-milkdown/issues"
+  },
+  "homepage": "https://github.com/darronbeetge/nodebb-plugin-composer-milkdown#readme"
+}
